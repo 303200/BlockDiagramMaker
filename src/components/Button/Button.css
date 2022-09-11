@@ -1,0 +1,12 @@
+.myButton{
+    width: 100%;
+    font-weight: bold;
+    border: none;
+    padding: 10px;
+    font-size: 15px;
+    word-wrap: break-word;
+}
+
+.myButton:hover {
+    cursor: pointer;
+}
